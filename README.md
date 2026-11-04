@@ -2,7 +2,7 @@
 
 Jianwei Li, Min-Seon Kim, and Jung-Eun Kim · NeurIPS 2026
 
-[Paper](https://arxiv.org/pdf/2610.00663) · [Project website](https://qes26.github.io/)
+[Paper](https://arxiv.org/pdf/2610.00663) · [Project website](https://qes-lora.github.io/)
 
 ## Code release
 
